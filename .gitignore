@@ -1,0 +1,33 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# React Native
+android/
+ios/
+*.keystore
+!debug.keystore
+
+# Build outputs
+build/
+dist/
+
+# Metro
+.metro-health-check*
+
+# Jest
+coverage/
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Environment
+.env
+.env.local
+.env.*.local
